@@ -1,2 +1,3 @@
 # dsp_storage
-simple storage for random dsps 
+
+a repo for small dsp headers.
